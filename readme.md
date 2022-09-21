@@ -8,6 +8,6 @@ Va començar sent un projecte de lleure de Guido per a mantenir-se ocupat durant
 - La *segona versió* va sortir a l'Octubre de l'any 2000 i portava una traducció 
 
 
-## ***Java*** ##
-## ***C*** ##
-## ***SQL*** ##
+## **Java** ##
+## **C** ##
+## **SQL** ##
