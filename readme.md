@@ -38,14 +38,13 @@ Java és un llenguatge **orientat a objectes** (això significa que organitza el
 - **Java SE 19 va sortir al Septembre de 2022**
 
 **Codi Hello world en Java**:
-
- 	```
+```
     public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
 }
- 	```
+```
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/Java_version_history)
 
 [JavaPoint](https://www.javatpoint.com/history-of-java)*
@@ -67,7 +66,7 @@ Com a desventatges tenim la seva seguritat, però el mateix es pot aplicar en Ja
 
 
 **Codi Hello world en C++**
- 	```
+```
     #include <iostream>
 
 int main()
