@@ -50,6 +50,12 @@ Java és un llenguatge **orientat a objectes** (això significa que organitza el
 ## **C++** ##
 C++ és un llenguatge orientat a objectes. Va ser desenvolupat per Bjarne Stroustrup al voltant de l'any 1979 i va ser creat inicialment per millorar el llenguatge C afegint funcions orientades a objectes, a més d'altres millores.
 
+- La **primera versió** va sortir l'any 98. (C++98)
+- La **segona versió** va sortir l'any 2003 (C++03)
+- La **tercera versió** és de l'any 2011 (C++11)
+- La **quarta versió** va ser alliberada l'any 2014 (C++14)
+- La **quinta versió** és de l'any 2017 (C++17)
+- La **
 
 
 **Codi Hello world en C++**
@@ -61,7 +67,7 @@ int main()
 }`
     
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
-
+https://www.cppbuzz.com/cpp-versions
 
 
 ## **SQL** ##
