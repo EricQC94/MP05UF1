@@ -88,15 +88,11 @@ int main()
 SQL és un llenguatge que va ser dissenyat per a manipular i comunicar bases de dades. És molt accessible i intuïtiu. Va ser creat l'any 1970 per Raymond Boyce i Donald Chamberlin sota el nom de SEQUEL. MYSQL és **Open Source** es a dir que el seu codi font és de lliure distribuició i modificable per la comunitat. És portatil lo que significa que es pot utilitzar en algúns telèfons, PCs i portatils. Per la seva simplicitat, no requereix de coneixement previs de programació ja que a més a més utilitza un llenguatge estandart.
     
 Començant per la primera versió, que va ser la *SQL Server 1.0*, hi trobem una bona varietat de versions, 14 en total, en diverses modificacions, que arriben fins a l'actual pendent de alliberament, la  versió *SQL Server 2022*:
-    - La versió *2012* va donar grans millores de rendiment al llenguatge.
-    - La versió *2014* amb més millores de rendiment i de memòria.
-    - La versió *2016*, millores de memòria i la imperativitat de fer-lo funcionar en un processador de x64 bits.
-    - La versió *2017* va fer-lo funcional per a Linux, convertint-lo així en un llenguatge encara més global.
-    - La versió *2019* inclou diversos serveis nous, com ara:
-    1. SQL Server Analysis 
-    2. Server Machine Learning Services in SQL
-    3. SQL Server on Linux
-    4. SQL Server Master Data Services
+
+- La versió *2012* va donar grans millores de rendiment al llenguatge.
+- La versió *2016*, millores de memòria i la imperativitat de fer-lo funcionar en un processador de x64 bits.
+- La versió *2017* va fer-lo funcional per a Linux, convertint-lo així en un llenguatge encara més global.
+- La versió *2019* inclou diversos serveis nous, com ara SQL Server Analysis, Server Machine Learning Services in SQL, SQL Server on Linux, SQL Server Master Data Services
 
 **Codi "HELLO WORLD" en SQL:**
 ```
