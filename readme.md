@@ -53,13 +53,12 @@ C++ és un llenguatge orientat a objectes. Va ser desenvolupat per Bjarne Strous
 
 
 **Codi Hello world en C++**
-'#include <iostream>
+`#include <iostream>
 
 int main()
 {
     std::cout << "Hello, world!\n";
-}
-'
+}`
     
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
 
