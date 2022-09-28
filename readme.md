@@ -11,7 +11,10 @@ Es tracta d'un llenguatge imperatiu, això és, que existeixen les anomenades fu
 - La *quarta versió 3.9/3.10*, que és la actual, va fer augmentar en popularitat al llenguatge desde el 2010 fins al dia d'avui, convertint-lo en un dels llenguatges més utilitzats.
 
 **Codi Hello World en Python:**
-`print ("Hola Mon");`
+`print ("Hello, World!");`
+
+*Fotos:*
+[Imgur](https://i.imgur.com/gsYo8AA.png)
 
 *Source:* [Learn Python](https://learnpython.com/blog/history-of-python/)
 
@@ -34,13 +37,15 @@ Java és un llenguatge **orientat a objectes** (això significa que organitza el
 - **Java SE 15** va ser llençat l'any 2020 amb més "parches" de seguretat i bugs.
 - **Java SE 19 va sortir al Septembre de 2022**
 
-**Codi Hello world en Java**
-`public class HelloWorld {
+**Codi Hello world en Java**:
+
+ 	```
+    public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
-}`
-
+}
+ 	```
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/Java_version_history)
 
 [JavaPoint](https://www.javatpoint.com/history-of-java)*
@@ -50,28 +55,66 @@ Java és un llenguatge **orientat a objectes** (això significa que organitza el
 ## **C++** ##
 C++ és un llenguatge orientat a objectes. Va ser desenvolupat per Bjarne Stroustrup al voltant de l'any 1979 i va ser creat inicialment per millorar el llenguatge C afegint funcions orientades a objectes, a més d'altres millores.
 
-- La **primera versió** va sortir l'any 98. (C++98)
-- La **segona versió** va sortir l'any 2003 (C++03)
-- La **tercera versió** és de l'any 2011 (C++11)
-- La **quarta versió** va ser alliberada l'any 2014 (C++14)
-- La **quinta versió** és de l'any 2017 (C++17)
-- La *sisena versió** i la actual és de l'any 2020 (C++20)
+- La *primera versió* va sortir l'any 98. (C++98)
+- La *segona versió* va sortir l'any 2003 (C++03)
+- La *tercera versió* és de l'any 2011 (C++11)
+- La *quarta versió* va ser alliberada l'any 2014 (C++14)
+- La *quinta versió* és de l'any 2017 (C++17)
+- La *sisena versió* i la actual és de l'any 2020 (C++20)
 
 Ha sigut dissenyat per a ús general, o en altres paraules, per a tot, desde videojocs fins a desenvolupamdnt de software de servers. Es pot utilitzar en moltes plataformes també al igual que Java.
 Com a desventatges tenim la seva seguritat, però el mateix es pot aplicar en Java.
 
 
 **Codi Hello world en C++**
-#include <iostream>
+ 	```
+    #include <iostream>
 
 int main()
 {
     std::cout << "Hello, world!\n";
-}`
+} 	
+```
+
+*Ofertes a InfoJobs: 241*
     
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
-[CPPBuzz](https://www.cppbuzz.com/cpp-versions)
-[BitDegree](https://es.bitdegree.org/tutoriales/c-plus-plus-tutorial/#heading-4)
+
+    [CPPBuzz](https://www.cppbuzz.com/cpp-versions)
+
+    [BitDegree](https://es.bitdegree.org/tutoriales/c-plus-plus-tutorial/#heading-4)
 
 
 ## **SQL** ##
+SQL és un llenguatge que va ser dissenyat per a manipular i comunicar bases de dades. És molt accessible i intuïtiu. Va ser creat l'any 1970 per Raymond Boyce i Donald Chamberlin sota el nom de SEQUEL. MYSQL és **Open Source** es a dir que el seu codi font és de lliure distribuició i modificable per la comunitat. És portatil lo que significa que es pot utilitzar en algúns telèfons, PCs i portatils. Per la seva simplicitat, no requereix de coneixement previs de programació ja que a més a més utilitza un llenguatge estandart.
+    
+Començant per la primera versió, que va ser la *SQL Server 1.0*, hi trobem una bona varietat de versions, 14 en total, en diverses modificacions, que arriben fins a l'actual pendent de alliberament, la  versió *SQL Server 2022*:
+    - La versió *2012* va donar grans millores de rendiment al llenguatge.
+    - La versió *2014* amb més millores de rendiment i de memòria.
+    - La versió *2016*, millores de memòria i la imperativitat de fer-lo funcionar en un processador de x64 bits.
+    - La versió *2017* va fer-lo funcional per a Linux, convertint-lo així en un llenguatge encara més global.
+    - La versió *2019* inclou diversos serveis nous, com ara:
+    1. SQL Server Analysis 
+    2. Server Machine Learning Services in SQL
+    3. SQL Server on Linux
+    4. SQL Server Master Data Services
+
+**Codi "HELLO WORLD" en SQL:**
+     	```
+        SELECT * FROM helloworld WHERE phrase = "Hello, World!" 	**AQUI CREEM UNA TAULA ANOMENADA HELLO WORLD** INSERT INTO helloworld VALUES ("Hello, World!");
+INSERT INTO helloworld VALUES ("Goodbye, World!");
+SELECT COUNT(*) FROM helloworld; **AQUI CREEM DUES FILES, UNA HELLO WORLD I L'ALTRA GOODBYE WORLD** SELECT * FROM helloworld WHERE phrase = "Hello, World!";
+**FINALMENT AQUI DIEM QUE ES MOSTRE DE LES DOS FILES LA QUE TINGUE LA FRASE "Hello, World!" I QUE ENS LA MOSTRE PER PANTALLA
+```
+
+**Fotos:**
+[Imgur](https://i.imgur.com/F2SxXDE.png)
+
+
+*Ofertes a InfoJobs: 297*
+
+
+*Source*: 
+    [Data-Flair](https://data-flair.training/blogs/microsoft-sql-version-history/)
+   
+
