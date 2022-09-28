@@ -17,7 +17,7 @@ Es tracta d'un llenguatge imperatiu, això és, que existeixen les anomenades fu
 
 [Paradigma Digital](https://www.paradigmadigital.com/dev/es-python-el-lenguaje-del-futuro/)
 
-[New Relic](https://newrelic.com/blog/nerd-life/python-programming-styles)
+[New Relic](https://newrelic.com/blog/nerd-life/python-programming-styles)*
 
 *Ofertes a InfoJobs: 584*
 
@@ -42,16 +42,27 @@ Java és un llenguatge **orientat a objectes** (això significa que organitza el
 }`
 
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/Java_version_history)
-`[JavaPoint](https://www.javatpoint.com/history-of-java)
+
+[JavaPoint](https://www.javatpoint.com/history-of-java)*
 
 *Ofertes a InfoJobs: 828*
 
 ## **C++** ##
-C++ és un llenguatge orientat a objectes. Va ser desenvolupat per Bjarne Stroustrup al voltant de l'any 1979. Va ser creat inicialment per millorar el llenguatge C.
+C++ és un llenguatge orientat a objectes. Va ser desenvolupat per Bjarne Stroustrup al voltant de l'any 1979 i va ser creat inicialment per millorar el llenguatge C afegint funcions orientades a objectes, a més d'altres millores.
 
 
-*Source: 
-[Scaler](https://www.scaler.com/topics/cpp/origin-and-philosophy-of-cpp/)
+
+**Codi Hello world en C++**
+'#include <iostream>
+
+int main()
+{
+    std::cout << "Hello, world!\n";
+}
+'
+    
+*Source:* [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
+
 
 
 ## **SQL** ##
