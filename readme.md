@@ -22,7 +22,7 @@ Es tracta d'un llenguatge imperatiu, això és, que existeixen les anomenades fu
 *Ofertes a InfoJobs: 584*
 
 ## **Java** ##
-Java és un llenguatge **orientat a objectes** (això significa que organitza el disseny del software en objectes, a diferència de funcions o lògica) creat per Sun Microsistems Inc. per James Gosling i un equip de investigadors en un intent de crear un nou llenguatge que donés la possibilitat de crear comunicació entre diferents dispositius electronics. Primerament es va dir Greentalk, després Oak i finalment Java. Es va començar a desenvolupar l'any 1991 però no va ser alliberat fins 1995:
+Java és un llenguatge **orientat a objectes** (això significa que organitza el disseny del software en objectes, a diferència de funcions o lògica) creat per Sun Microsistems Inc. per James Gosling i un equip de investigadors en un intent de crear un nou llenguatge que donés la possibilitat de crear comunicació entre diferents dispositius electronics. El es diu que el lema dels seus creadors és "pgrogramalo una vez, ejecútalo donde sea" ja que es pot utilitzar en qualsevol plataforma. Primerament es va dir Greentalk, després Oak i finalment Java. Es va començar a desenvolupar l'any 1991 però no va ser alliberat fins 1995:
 
 **Java és un llenguatge que ha tingut moltes versións, per tant només citaré les més significatives.**
 
@@ -55,7 +55,10 @@ C++ és un llenguatge orientat a objectes. Va ser desenvolupat per Bjarne Strous
 - La **tercera versió** és de l'any 2011 (C++11)
 - La **quarta versió** va ser alliberada l'any 2014 (C++14)
 - La **quinta versió** és de l'any 2017 (C++17)
-- La **
+- La *sisena versió** i la actual és de l'any 2020 (C++20)
+
+Ha sigut dissenyat per a ús general, o en altres paraules, per a tot, desde videojocs fins a desenvolupamdnt de software de servers. Es pot utilitzar en moltes plataformes també al igual que Java.
+Com a desventatges tenim la seva seguritat, però el mateix es pot aplicar en Java.
 
 
 **Codi Hello world en C++**
@@ -67,7 +70,8 @@ int main()
 }`
     
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
-https://www.cppbuzz.com/cpp-versions
+[CPPBuzz](https://www.cppbuzz.com/cpp-versions)
+[BitDegree](https://es.bitdegree.org/tutoriales/c-plus-plus-tutorial/#heading-4)
 
 
 ## **SQL** ##
