@@ -79,9 +79,9 @@ int main()
     
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
 
-    [CPPBuzz](https://www.cppbuzz.com/cpp-versions)
+[CPPBuzz](https://www.cppbuzz.com/cpp-versions)
 
-    [BitDegree](https://es.bitdegree.org/tutoriales/c-plus-plus-tutorial/#heading-4)
+[BitDegree](https://es.bitdegree.org/tutoriales/c-plus-plus-tutorial/#heading-4)
 
 
 ## **SQL** ##
@@ -99,11 +99,12 @@ Començant per la primera versió, que va ser la *SQL Server 1.0*, hi trobem una
     4. SQL Server Master Data Services
 
 **Codi "HELLO WORLD" en SQL:**
-     	```
-        SELECT * FROM helloworld WHERE phrase = "Hello, World!" 	**AQUI CREEM UNA TAULA ANOMENADA HELLO WORLD** INSERT INTO helloworld VALUES ("Hello, World!");
+```
+        SELECT * FROM helloworld WHERE phrase = "Hello, World!" 	//AQUI CREEM UNA TAULA ANOMENADA HELLO WORLD//
+        INSERT INTO helloworld VALUES ("Hello, World!");
 INSERT INTO helloworld VALUES ("Goodbye, World!");
-SELECT COUNT(*) FROM helloworld; **AQUI CREEM DUES FILES, UNA HELLO WORLD I L'ALTRA GOODBYE WORLD** SELECT * FROM helloworld WHERE phrase = "Hello, World!";
-**FINALMENT AQUI DIEM QUE ES MOSTRE DE LES DOS FILES LA QUE TINGUE LA FRASE "Hello, World!" I QUE ENS LA MOSTRE PER PANTALLA
+SELECT COUNT(*) FROM helloworld; //AQUI CREEM DUES FILES, UNA HELLO WORLD I L'ALTRA GOODBYE WORLD// 
+SELECT * FROM helloworld WHERE phrase = "Hello, World!"; //FINALMENT AQUI DIEM QUE ES MOSTRE DE LES DOS FILES LA QUE TINGUE LA FRASE "Hello, World!" I QUE ENS LA MOSTRE PER PANTALLA//
 ```
 
 **Fotos:**
