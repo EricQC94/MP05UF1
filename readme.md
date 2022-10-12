@@ -3,7 +3,7 @@
 ## **Python** ##
 Python va ser creat a finals dels anys 80 per Guido van Rossum als Paísos Baixos. El nom ve dels humorístes britànics Monty Python.
 Va començar sent un projecte de lleure de Guido per a mantenir-se ocupat durant la festivitat nadalenca i ha anat evol·lucionant fins a l'actualitat.
-Es tracta d'un llenguatge imperatiu, això és, que existeixen les anomenades funcions que s'encarreguen de cumplir tasques úniques i específiques. Està orientat a objectes i és **interpretat**, això significa que hi ha un interpret que s'encarrega d'interpretar les funcions escrites.
+Es tracta d'un llenguatge **imperatiu**, això és, que existeixen les anomenades funcions que s'encarreguen de cumplir tasques úniques i específiques. Està orientat a objectes i és **interpretat**, això significa que hi ha un interpret que s'encarrega d'interpretar les funcions escrites.
 
 - La *primera versió 1.0* va sortir al Gener del 1994 i incloía **lambda** (una funció anònima o sense nom), mapa i filtres. Algúns altres aspectes eren les **keywords**, **backups** per a nombres compostos, etc.
 - La *segona versió 2.0* va sortir a l'Octubre de l'any 2000 i portava diverses incorporacions com per exemple: suport per a **Unicode** (seqüència de bits que representa text), unificació de tipus de dades i classes, etc.
@@ -24,8 +24,14 @@ Es tracta d'un llenguatge imperatiu, això és, que existeixen les anomenades fu
 
 *Ofertes a InfoJobs: 584*
 
+La informació que et demano específicament com el paradigma de programació -> llenguatge imperatiu l'has de ficar en negreta o d'alguna manera que ho pugui trobar fàcilment.
+
+**faltaria part del codi, avantatges i inconvenients**
+
+
+
 ## **Java** ##
-Java és un llenguatge **orientat a objectes** (això significa que organitza el disseny del software en objectes, a diferència de funcions o lògica) creat per Sun Microsistems Inc. per James Gosling i un equip de investigadors en un intent de crear un nou llenguatge que donés la possibilitat de crear comunicació entre diferents dispositius electronics. El es diu que el lema dels seus creadors és "pgrogramalo una vez, ejecútalo donde sea" ja que es pot utilitzar en qualsevol plataforma. Primerament es va dir Greentalk, després Oak i finalment Java. Es va començar a desenvolupar l'any 1991 però no va ser alliberat fins 1995:
+Java és un llenguatge **orientat a objectes i utilitza màquina virtual** (això significa que organitza el disseny del software en objectes, a diferència de funcions o lògica) creat per Sun Microsistems Inc. per James Gosling i un equip de investigadors en un intent de crear un nou llenguatge que donés la possibilitat de crear comunicació entre diferents dispositius electronics. El es diu que el lema dels seus creadors és "pgrogramalo una vez, ejecútalo donde sea" ja que es pot utilitzar en qualsevol plataforma. Primerament es va dir Greentalk, després Oak i finalment Java. Es va començar a desenvolupar l'any 1991 però no va ser alliberat fins 1995:
 
 **Java és un llenguatge que ha tingut moltes versións, per tant només citaré les més significatives.**
 
@@ -51,8 +57,10 @@ Java és un llenguatge **orientat a objectes** (això significa que organitza el
 
 *Ofertes a InfoJobs: 828*
 
+**faltaria part del codi, avantatges i inconvenients i que utilitza màquina virtual**
+
 ## **C++** ##
-C++ és un llenguatge orientat a objectes. Va ser desenvolupat per Bjarne Stroustrup al voltant de l'any 1979 i va ser creat inicialment per millorar el llenguatge C afegint funcions orientades a objectes, a més d'altres millores.
+C++ és un llenguatge **orientat a objectes**. Va ser desenvolupat per Bjarne Stroustrup al voltant de l'any 1979 i va ser creat inicialment per millorar el llenguatge C afegint funcions orientades a objectes, a més d'altres millores.
 
 - La *primera versió* va sortir l'any 98. (C++98)
 - La *segona versió* va sortir l'any 2003 (C++03)
@@ -76,6 +84,8 @@ int main()
 ```
 
 *Ofertes a InfoJobs: 241*
+
+**faltaria part del codi, avantatges i inconvenients i que és compilat**
     
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
 
@@ -109,6 +119,7 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!"; //FINALMENT AQUI DIEM Q
 
 *Ofertes a InfoJobs: 297*
 
+**faltaria part del codi, avantatges i inconvenients, paradigma de programació i si és interpretat o compilat.**
 
 *Source*: 
     [Data-Flair](https://data-flair.training/blogs/microsoft-sql-version-history/)
